@@ -11,4 +11,5 @@ Currently, I'm reskilling to build a career path in Software Development!
 - ⚡ Fun fact: Perfectly aligned and responsive CSS is my dopamine
 
 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-chee-246b77194/)
