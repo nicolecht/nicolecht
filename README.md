@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with learning web backend and databases 
 - 📫 How to reach me: Instagram @nicolecht
-- ⚡ Fun fact: I have an accountancy background b4 changing to software dev
+- ⚡ Fun fact: I have an accountancy and finanace background b4 changing to software dev
