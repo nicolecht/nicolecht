@@ -34,5 +34,5 @@
 
 <a href="https://www.linkedin.com/in/nicolecht/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
-<a/>                                                                                                                                 
+</a>                                                                                                                              
                                                                                                                                      
