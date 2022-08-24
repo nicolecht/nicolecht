@@ -1,6 +1,10 @@
-### Heeey!
+## Heeey!
 
-I'm Nicole and I'm reskilling to build a career path in Software Development!
+## I'm Nicole and I'm reskilling to build a career path in Software Development!
+
+<div align="center">
+  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a>
+</div>
 
 - 🔭 I’m currently working on 42 Core Programme and some personal front-end projects
 - 🌱 I’m currently learning React
@@ -8,6 +12,39 @@ I'm Nicole and I'm reskilling to build a career path in Software Development!
 - 🤔 I’m looking for help with learning web backend and databases 
 - ⚡ Fun fact: Perfectly aligned and responsive CSS is my dopamine
 
+## ⚡ Languages and Frameworks:
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+## 🔥 Tools:
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-chee-246b77194/)
+<a href="https://www.linkedin.com/in/nicolecht/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
+</a>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<p align="center">
+<a href="https://github.com/nicolecht/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolecht&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+ 
+<a href="https://github.com/nicolecht">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunyanong&theme=blueberry" width="380"/>
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+    <a href="https://github.com/nicolecht"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolecht&theme=tokyonight&hide_border=true"  width="520" alt="nicolecht"/></a>
+<a href="https://github.com/nicolecht"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolechtg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="nicolecht"/></a>
+</p>
