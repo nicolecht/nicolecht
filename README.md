@@ -3,7 +3,7 @@
 ## I'm Nicole and I'm reskilling to build a career path in Software Development!
 
 <div align="center">
-  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 - 🔭 I’m currently working on 42 Core Programme and some personal front-end projects
