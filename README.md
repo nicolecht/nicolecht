@@ -61,5 +61,5 @@
 
 <p align="center">
     <a href="https://github.com/nicolecht"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolecht&theme=gruvbox&hide_border=true"  width="520" alt="nicolecht"/></a>
-<a href="https://github.com/nicolecht"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolecht&langs_count=8&show_icons=true&locale=en&layout=compact&theme=gruvbox" width="320"  alt="nicolecht"/></a>
+<a href="https://github.com/nicolecht"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolecht&langs_count=6&show_icons=true&locale=en&layout=compact&theme=gruvbox" width="320"  alt="nicolecht"/></a>
 </p>                                                                                                                          
