@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
-## I'm an ex-accountant reskilling to become a software developer 🏫
+## I'm a software developer with an ACCA (accountancy) background  🏫
 
 - 🔭 I’m currently working on 42 Core Programme and some personal front-end projects
 - 🌱 I’m currently learning React
