@@ -6,9 +6,9 @@
 
 ## I'm a software developer with an ACCA (accountancy) background  🏫
 
-- 🔭 I’m currently working on 42 Core Programme and some personal front-end projects
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with learning web backend and databases
+- 🔭 I’m currently working on VueJS company projects and ReactJS personal projects
+- 🌱 I’m currently learning TypeScript, PHP, Laravel, Django, and Python
+- 🤔 I’m planning to improve my UI/UX and learn Flutter
 
 <br/>
 
