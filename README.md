@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
-## I'm a software developer with an ACCA (accountancy) background  🏫
+## I'm a software engineer specializing in frontend engineering 🏫
 
-- 🔭 I’m currently working on VueJS company projects and ReactJS personal projects
-- 🌱 I’m currently learning TypeScript, PHP, Laravel, Django, and Python
-- 🤔 I’m planning to improve my UI/UX and learn Flutter
+- 🔭 I’m currently working on ReactJS company projects and ReactJS personal projects
+- 🌱 I’m currently learning TypeScript, NextJS, NestJS
+- 🤔 I’m planning to improve my UI/UX and go deeping into frontend
 
 <br/>
 
