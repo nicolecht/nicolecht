@@ -7,8 +7,8 @@
 ## I'm a software engineer specializing in frontend engineering 🏫
 
 - 🔭 I’m currently working on ReactJS company projects and ReactJS personal projects
-- 🌱 I’m currently learning TypeScript, NextJS, NestJS
-- 🤔 I’m planning to improve my UI/UX and go deeping into frontend
+- 🌱 I’m currently learning TypeScript, NextJS, and NestJS
+- 🤔 I’m planning to improve my UI/UX and go deep into frontend
 
 <br/>
 
